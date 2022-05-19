@@ -18,7 +18,13 @@ body {
     font-weight: bold;
     font-size: 15px;
 }
+ .image {
 
+    height: 10%;
+    width: 10%;
+    position: relative;
+
+ }
 .obj {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-style:italic ;
